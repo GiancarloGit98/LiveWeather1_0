@@ -7,7 +7,7 @@ import Consulta from "./pages/consulta";
 import Pronostico from "./pages/pronostico";
 import "./estilos.css";
 
-// Definición de rutas principales de la app.
+// Se definenlas rutas principales.
 const App = () => (
   <BrowserRouter>
     <Routes>
